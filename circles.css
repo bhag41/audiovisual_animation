@@ -1,0 +1,28 @@
+canvas {
+  width: 100%;
+  background-color: #ffffff;
+}
+
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: 'PT Sans Narrow', sans-serif;
+  overflow: hidden;
+
+}
+
+.welcome {
+  margin-top: 10%;
+  text-align: center;
+  left: 50%;
+  margin-left: -215px;
+  width: 450px;
+  height: 200px; 
+  position: absolute;
+  color: #34014f;
+  background: #ffffff;
+  border: 15px ridge #61337a;
+  cursor: pointer
+   /*border-radius: 50px 20px; */
+}
+
